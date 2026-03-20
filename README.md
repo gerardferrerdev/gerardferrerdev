@@ -1,8 +1,13 @@
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4eXJueXF4eXJueXF4eXJueXF4/l378c04xvS8f6X5K/giphy.gif" width="30"> Gerard Ferrer | Software Engineering Student 📄
 
-👋 Olá! Sou o **Gerard Ferrer**, apaixonado por construir soluções de software eficientes.
+<div align="center">
+
+# 👋 Olá! Sou o Gerard Ferrer
+### Software Engineering Student 🚀
 
 [![Meu Portfólio](https://img.shields.io/badge/Acessar%20Portfólio-8A2BE2?style=for-the-badge&logo=polywork&logoColor=white)](https://portifolio-phi-topaz-66.vercel.app/)
+
+</div>
 
 ### 📚 Sobre Mim
 - 🎓 Graduando em **Engenharia de Software** na **Estácio** (Previsão: 2029)
