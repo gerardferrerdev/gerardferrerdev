@@ -1,6 +1,7 @@
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4eXJueXF4eXJueXF4eXJueXF4/l378c04xvS8f6X5K/giphy.gif" width="30"> Gerard Ferrer | Software Engineering Student 📄
 
 👋 Olá! Sou o **Gerard Ferrer**, apaixonado por construir soluções de software eficientes.
+
 [![Meu Portfólio](https://img.shields.io/badge/Acessar%20Portfólio-8A2BE2?style=for-the-badge&logo=polywork&logoColor=white)](https://portifolio-phi-topaz-66.vercel.app/)
 
 ### 📚 Sobre Mim
@@ -10,7 +11,7 @@
 ### 🛠️ Skills & Tecnologias
 | Linguagens | Banco de Dados | Ferramentas |
 | :--- | :--- | :--- |
-| ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Postgres](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+| ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Postgres](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Zed](https://img.shields.io/badge/Zed_Editor-121212?style=for-the-badge&logo=zed&logoColor=white) |
 
 ### 🚀 Projetos em Destaque
 
